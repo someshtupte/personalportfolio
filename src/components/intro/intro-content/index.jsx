@@ -22,12 +22,12 @@ const IntroContent = () => {
                             </span>
                             <span className="text">, I Am</span>
                         </span>
-                        <span className="big-text">Keniya Andrew</span>
+                        <span className="big-text">Somesh Tupte</span>
                     </h1>
                     <p className="title">
-                        Lorem Ipsum is simply dummy text of the printing and
-                        typesetting industry. Lorem Ipsum has been the
-                        industry's standard dummy text ever since the 1500
+                        I am budding web developer. Working currently in web technologies like 
+                        Recat JS, Javascript, HTML, CSS, SCSS, Tailwind CSS.
+                       
                     </p>
                     <CallToAction
                         text="Contact me"

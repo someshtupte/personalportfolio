@@ -11,10 +11,11 @@
         margin-top: 60px;
     }
     .app-logo {
-        width: 100px;
+        height: 50px;
+        width: 50px;
         flex-shrink: 0;
         @include small-screen {
-            width: 143px;
+            width: 70px;
         }
         img {
             width: 100%;

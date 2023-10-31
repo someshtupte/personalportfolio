@@ -13,11 +13,11 @@ const ContactInfo = () => {
             </h4>
             <div className="contact-option">
                 <FaPhoneAlt />
-                <span className="text">+91 1234567890</span>
+                <span className="text">+91 8983701079</span>
             </div>
             <div className="contact-option">
                 <MdEmail />
-                <span className="text">example@gmail.com</span>
+                <span className="text">someshtupte@gmail.com</span>
             </div>
         </div>
     );

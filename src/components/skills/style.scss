@@ -37,18 +37,41 @@
             @include small-screen {
                 margin-bottom: 30px;
             }
+
         }
-        p {
-            @include typography(14px, 400, 20px);
-            margin-bottom: 15px;
-            @include small-screen {
-                @include typography(18px, 400, 24px);
+
+        // ul{
+        //     @include typography(14px, 400, 20px);
+        //     display:flex;
+        //     flex-direction: row;
+            
+        //     @include small-screen {
+        //         @include typography(18px, 400, 24px);
+        //         display:flex;
+        //         flex-direction: row;
+        //     }
+        // }
+        ul {
+            list-style: none;
+            columns: 2;
+            -webkit-columns: 2;
+            -moz-columns: 2;
+            @include typography(18px, 400, 24px);
+        
+            li{
+                background: white;
+                border-radius: 10px;
+                color: black;
+                padding: 2px;
+                margin-bottom: 5px;
+                text-align: center;
+                font-weight: 500;
             }
-        }
+          }
         .call-to-action {
-            margin: 0 auto;
+            margin: 20px;
             @include small-screen {
-                margin: 0;
+                margin: 20px;
             }
         }
     }
