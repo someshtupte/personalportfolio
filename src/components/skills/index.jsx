@@ -4,7 +4,7 @@ import { AiOutlineCloudDownload } from "react-icons/ai";
 import CallToAction from "../shared/CallToAction";
 import TechIcons from "../../images/tech-icons.png";
 import Section from "../shared/section";
-import Resume from "../../download/file-sample_150kB.pdf";
+import Resume from "../../download/Resume.pdf";
 
 import "./style.scss";
 
