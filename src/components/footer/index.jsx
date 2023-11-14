@@ -58,7 +58,7 @@ const Footer = () => {
                     <SocialIcon
                         color="#FF0000"
                         icon={<FaYoutube />}
-                        link="https://www.youtube.com/@learncuriousbaba7028"
+                        link="https://www.youtube.com/@curiousbaba"
                     />
                     <SocialIcon
                         color="#0D2636"
@@ -69,15 +69,6 @@ const Footer = () => {
                         color="#0A66C2"
                         icon={<FaLinkedinIn />}
                         link="https://www.linkedin.com/in/someshtupte/"
-                    />
-                    <SocialIcon
-                        color="#f2740d"
-                        icon={<FaStackOverflow />}
-                        
-                    />
-                    <SocialIcon
-                        color="#E84C88"
-                        icon={<FaInstagram />}
                     />
                 </div>
                 <div className="bottom-bar">
