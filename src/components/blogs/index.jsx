@@ -18,24 +18,10 @@ const Blogs = () => {
             <div className="blogs-content-wrapper">
                 <BlogCard
                     user="John Doe"
-                    date="Mar 8 2022"
+                    date="11 Nov 2023"
                     image={Blog1}
-                    title="Quis Autem Vea Eum Iure Reprehendrit"
-                    description="Lorem Ipsum is simply dummy text of the printing and typesetting industry."
-                />
-                <BlogCard
-                    user="John Doe"
-                    date="Mar 8 2022"
-                    image={Blog2}
-                    title="Quis Autem Vea Eum Iure Reprehendrit"
-                    description="Lorem Ipsum is simply dummy text of the printing and typesetting industry."
-                />
-                <BlogCard
-                    user="John Doe"
-                    date="Mar 8 2022"
-                    image={Blog3}
-                    title="Quis Autem Vea Eum Iure Reprehendrit"
-                    description="Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+                    title="This is my first blog post on this website"
+                    description="This is the first blog post I am writing on this website. This is my personal portfolio website"
                 />
             </div>
         </Section>

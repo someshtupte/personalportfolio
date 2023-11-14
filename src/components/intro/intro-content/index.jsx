@@ -54,10 +54,6 @@ const IntroContent = () => {
                         <div className="icon">
                             <FaUser />
                         </div>
-                        <div className="text">
-                            <span>4k+</span>
-                            Happy Customers
-                        </div>
                     </div>
                 </div>
             </div>
