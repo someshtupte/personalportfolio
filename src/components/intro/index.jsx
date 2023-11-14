@@ -17,10 +17,12 @@ const Intro = () => {
             <img
                 src={cloud}
                 className="cloud"
+                alt = "cloud"
             />
             <img
                 src={cloudSoft}
                 className="cloud-soft"
+                alt = "soft-cloud"
             />
             <div className="content">
                 <Navigation />
